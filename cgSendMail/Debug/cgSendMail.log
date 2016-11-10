@@ -1,0 +1,4 @@
+﻿  main.cpp
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  cgSendMail.vcxproj -> C:\uNkind\YandexDisk\Visual Studio 2015\Projects\cgSendMail\Debug\cgSendMail.exe
+  cgSendMail.vcxproj -> C:\uNkind\YandexDisk\Visual Studio 2015\Projects\cgSendMail\Debug\cgSendMail.pdb (Partial PDB)
